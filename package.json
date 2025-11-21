@@ -2,6 +2,7 @@
   "name": "social-chat",
   "version": "1.0.0",
   "scripts": {
+    "build": "cd server && npm install",
     "start": "cd server && npm start"
   }
 }
